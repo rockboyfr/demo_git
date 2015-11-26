@@ -3,4 +3,4 @@ Une démo de git
 This is a modification
 
 Et maintenant on modifie depuis git hub
-Mais aussi depuis ma machine
+Mais aussi depuis ma machine et c'est cool
